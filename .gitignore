@@ -6,3 +6,9 @@ dist/
 *.log
 .DS_Store
 Thumbs.db
+
+# 자체 git 저장소를 가진 독립 프로젝트 (별도 리포지터리로 관리)
+lecture1/my-community/
+
+# Playwright MCP 테스트 디버그 산출물
+.playwright-mcp/
